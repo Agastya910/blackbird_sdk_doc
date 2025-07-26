@@ -1,3 +1,5 @@
+[Back to Index](index.md)
+
 # Streaming Chat
 
 The Blackbird SDK allows you to stream chat responses from your agents in real-time. This is useful for creating interactive and responsive applications.

@@ -447,6 +447,8 @@ cp -r pyarmor_runtime_009116 $CONDA_PREFIX/lib/python*/site-packages/
 
 **Welcome to BlackBird SDK!**
 
+[View Documentation](docs/index.md)
+
 <script>
 document.querySelectorAll('pre > code').forEach(function (codeBlock) {
     var button = document.createElement('button');
